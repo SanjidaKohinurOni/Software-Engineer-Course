@@ -8,6 +8,7 @@ MATRICULATION: 929927
 https://github.com/SanjidaKohinurOni/Software-Engineer-Course/blob/main/Project/Sentimental%20Analysis.ipynb
 
 2. The Unified Modeling Language (UML) is a general-purpose, developmental modeling language in the field of software engineering that is intended to provide a standard way to visualize the design of a system.
+
              - ACTIVITY DIAGRAM
              - USE CASE DIAGRAM
              - STATE DIAGRAM
